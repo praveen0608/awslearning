@@ -1,0 +1,43 @@
+Devops_Roadmap
+
+Required Skills:
+D- Devops 
+Fundamentals
+(what&why, 
+SDLC,
+How to accelerate SDLC with Devops, 
+Linux, networking,OSI model, TCP Handshake
+Shell Commands, 
+Shell Scripts, 
+Vertex control management 
+Github or Gitltlab, 
+CI/CD, 
+Ansible, 
+Terraform,
+Docker(containerization, Difference between Virtual Machine & Containerzation, Networking in Docker, Volumes in docker, Reduce docker image file, How to write docker file, Best Practices, Interactio between two containers, Runniong multiple containers with compsose)
+Kubernetes - (What is POD & Deployment, Netwroking of Kubernetes, Service Discovery, Ingress, Different kinds of services in Kubernetes, Deploy a simple kubernetes project)
+A- Aws or Azure
+Cloud - 
+
+Public & Private Cloud
+IAM
+Networking - Subnet, CIDR, VPC, Security groups, DNS
+Compute - Create a VM and deploy a service
+Load Balancing - (L7, L4)
+Storage - EBS, EFS, NFS, S3
+CI/CD - Advanced, Demo CI/CD projects
+Kubernetes -  EKS/ AKS,Deploy a three tier architecture projects
+Serverless 
+Cost Optimization
+Security & compliance
+Monitoring
+
+T - Terraform (7 to 8 days)- Infrastructure as Code, Cloud agnostic, Providers, Initialization, Plan, Apply, State File, Provisioners, Varibales, Modules, Environments, Implement a Project in Terraform)
+
+E - Python - How do use python in Devops, Fundamentals(Variables, Data types, If, Loops, Virtual env, API Calls, Github, create a Jira ticket using Python), 
+
+Good to know:
+
+Obeservability (SRE) - Metrics (Promethus), Monitioring(Graffana), Logging(ELK Stack) & Tracing (Open Tracing)
+
+AiOps - To learn
