@@ -1,0 +1,3 @@
+Internet --> Internet Gateway --> Public Subnet-->Elastic load balancer (Target Group) --> Route table -->Destination Subnet
+
+
